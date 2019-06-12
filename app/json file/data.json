@@ -1,0 +1,15 @@
+{
+"data_1":[
+{
+"name":"Masud karim",
+"species":"Human",
+"age":"19",
+"ct":"Bangladesh"
+},
+{
+	"path": {
+		"url": "/action.php"
+	}
+}
+]
+}
